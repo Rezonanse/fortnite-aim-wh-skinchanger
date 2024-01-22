@@ -33,7 +33,7 @@ Crosshair (Undetected)
 [1] Join to telegram chanenl https://t.me/+g4bvaTfSFTs5MGIy
 [2] Disable any Antivirus that is active. (Antivirus will block the game cheat from loading properly.)
 [3] Download and Unzip the zip folder into any directory.
-[4] Run FortExt.exe BEFORE Opening Valorant
+[4] Run FortExt.exe BEFORE Opening Fortnite
 [5] Launch Fortnite, Load into your desired game-mode, then press Ins (Inspect Key) to open the GUI.
 ```
 
